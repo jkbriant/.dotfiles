@@ -1,0 +1,21 @@
+[window]
+opacity = 0.8
+
+[font]
+size = 8
+
+[font.normal]
+family = "BlexMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "BlexMono Nerd Font" 
+style = "Bold"
+
+[font.italic]
+family = "BlexMono Nerd Font" 
+style = "Italic"
+
+[terminal.shell]
+program = "/bin/zsh"  # Adjust the path as needed, e.g., "/usr/bin/zsh"
+
